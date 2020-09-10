@@ -1,2 +1,2 @@
-# 6guojun.liulab-IMUST.github.io
+# 6guojun.github.io
 个人网页
