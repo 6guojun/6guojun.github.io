@@ -1,4 +1,4 @@
-# Duren Lab Website
+# Liu Lab Website
 
 This is the website of our academic research group at Clemson University.
 
